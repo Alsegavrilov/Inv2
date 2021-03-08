@@ -1,0 +1,6 @@
+module Pods_Inv {
+  umbrella header "Pods-Inv-umbrella.h"
+
+  export *
+  module * { export * }
+}
